@@ -1,4 +1,4 @@
-# I am i new developer so please tell me if I have done somting wrong -Adityasonar29
+# I am a new developer so please tell me if I have done somting wrong in this project -Adityasonar29
 
 This is my first commit please support
 
@@ -9,9 +9,6 @@ A modern, responsive website for Bakery built with React, TypeScript, and Tailwi
 ## Features
 
 - 🛒 Product catalog with filtering and search
-- 👤 User authentication system
-- 🛍️ Shopping cart functionality
-- 📦 Order tracking system
 - 📱 Responsive design
 - 🎨 Modern UI with Tailwind CSS
 - 🔐 Admin dashboard for product management
@@ -85,4 +82,18 @@ This README includes:
 - Author credits
 
 Feel free to customize any section to better match your project's specific needs!
+
+## Author
+
+- **Aditya Sonar** ([@Adityasonar29](https://github.com/Adityasonar29))
+  - 📧 Email: [adityavispute29@gmail.com]
+
+
+
+
+## Acknowledgments
+
+- Thanks to all contributors who have helped with this project
+- Special thanks to the React and Vite communities
+- Inspired by modern bakery management systems
 
