@@ -10,13 +10,14 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">About Us</h3>
             <p className="text-sm">
-              Jahagirdar Bakery brings you the finest baked goods made with love and tradition since 1990.
+              Bakery brings you the finest baked goods made with love and tradition since 1990.
             </p>
           </div>
           
           <div>
             <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
             <ul className="space-y-2">
+              {/* links to popular things */}
               <li><Link to="/products" className="text-sm hover:text-orange-200">Products</Link></li>
               <li><Link to="/order" className="text-sm hover:text-orange-200">Order Online</Link></li>
               <li><Link to="/vision" className="text-sm hover:text-orange-200">Our Vision</Link></li>
@@ -26,6 +27,7 @@ const Footer = () => {
           
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
+            {/* giving some info */}
             <ul className="space-y-2">
               <li className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
@@ -33,11 +35,13 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span className="text-sm">info@jahagirdarbakery.com</span>
+                <span className="text-sm">info@bakery.com</span>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span className="text-sm">123 College Road, Nashik, Maharashtra</span>
+                <span className="text-sm">
+                  123 College Road, Nashik, Maharashtra
+                </span>
               </li>
             </ul>
           </div>
@@ -56,11 +60,21 @@ const Footer = () => {
               </a>
             </div>
           </div>
+
+          <div>
+            <h3 className="text-lg font-semibold mb-4">Business Hours</h3>
+            <ul className="space-y-2">
+              <li className="text-sm">Mon - Fri: 8 AM - 8 PM</li>
+              <li className="text-sm">Sat: 9 AM - 6 PM</li>
+              <li className="text-sm">Sun: Closed</li>
+            </ul>
+          </div>
         </div>
         
         <div className="mt-8 pt-8 border-t border-orange-400">
           <p className="text-center text-sm">
-            © {new Date().getFullYear()} Jahagirdar Bakery. All rights reserved.
+              © {new Date().getFullYear()} Bakery.
+            <p className="text-sm">Developed by Aditya Sonar</p>
           </p>
         </div>
       </div>

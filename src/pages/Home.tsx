@@ -15,7 +15,7 @@ const Home = () => {
         <div className="absolute inset-0 bg-black bg-opacity-50" />
         <div className="relative max-w-7xl mx-auto px-4 h-full flex items-center">
           <div className="text-white">
-            <h1 className="text-5xl font-bold mb-4">Welcome to Jahagirdar Bakery</h1>
+            <h1 className="text-5xl font-bold mb-4">Welcome to Bekary</h1>
             <p className="text-xl mb-8">Crafting delicious moments with every bite since 1990</p>
             <Link
               to="/order"

@@ -33,7 +33,7 @@ const Vision = () => {
             <h2 className="text-2xl font-semibold mb-3">Future Goals</h2>
             <p className="text-gray-600">
               We aim to expand our reach while maintaining the quality and tradition that makes
-              Jahagirdar Foods special, bringing our delicious products to more communities.
+              bakery Foods special, bringing our delicious products to more communities.
             </p>
           </div>
         </div>

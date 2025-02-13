@@ -19,7 +19,7 @@ const Navbar = () => {
     { name: 'Blog', path: '/blog' },
     
     // Only show admin link for admin users
-  { name: 'Admin', path: '/admin' }
+
   ];
 
   return (
@@ -29,7 +29,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
               <Cake className="h-8 w-8" />
-              <span className="font-bold text-xl">Jahagirdar Bakery</span>
+              <span className="font-bold text-xl">Your Bekary</span>
             </Link>
           </div>
 

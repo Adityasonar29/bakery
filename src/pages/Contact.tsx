@@ -17,7 +17,7 @@ const Contact = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-orange-500" />
-                <span>info@jahagirdarbakery.com</span>
+                <span>info@bakery.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-orange-500" />
