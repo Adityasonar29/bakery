@@ -4,7 +4,7 @@ This is my first commit please support
 
 # Bakery Website
 
-![Bakery Website Screenshot](./assets/Screenshot 2025-02-13 162454.png)
+
 
 ![Home page](<assets/Screenshot 2025-02-13 162454.png>)
 
