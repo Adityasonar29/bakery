@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
   return (
     <div className="max-w-7xl mx-auto px-4 py-12">
-      <h1 className="text-4xl font-bold text-center mb-12">About Jahagirdar Foods</h1>
+      <h1 className="text-4xl font-bold text-center mb-12">About Bakery</h1>
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16">
         <div>
@@ -16,7 +16,7 @@ const About = () => {
         <div className="space-y-6">
           <h2 className="text-3xl font-semibold">Our Story</h2>
           <p className="text-gray-600">
-            Founded in 1990, Jahagirdar Foods began as a small family bakery with a passion for
+            Founded in 1990, Bakery began as a small family bakery with a passion for
             traditional Indian baking. Over three decades, we've grown into one of Mumbai's most
             beloved bakeries, while maintaining our commitment to quality and tradition.
           </p>

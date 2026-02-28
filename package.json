@@ -1,6 +1,7 @@
 {
-  "name": "jahagirdar-bakery",
-  "author": "Aditya Sonar",
+  "name": "bakery",
+  "author": "Adityasonar29", 
+  "description": "A simple bakery management system",
   "private": true,
   "version": "1.0.0",
   "type": "module",
