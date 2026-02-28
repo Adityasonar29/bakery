@@ -19,7 +19,7 @@ const Navbar = () => {
     { name: 'Blog', path: '/blog' },
     
     // Only show admin link for admin users
-  { name: 'Admin', path: '/admin' }
+
   ];
 
   return (

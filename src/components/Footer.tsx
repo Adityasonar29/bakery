@@ -56,11 +56,21 @@ const Footer = () => {
               </a>
             </div>
           </div>
+
+          <div>
+            <h3 className="text-lg font-semibold mb-4">Business Hours</h3>
+            <ul className="space-y-2">
+              <li className="text-sm">Mon - Fri: 8 AM - 8 PM</li>
+              <li className="text-sm">Sat: 9 AM - 6 PM</li>
+              <li className="text-sm">Sun: Closed</li>
+            </ul>
+          </div>
         </div>
         
         <div className="mt-8 pt-8 border-t border-orange-400">
           <p className="text-center text-sm">
-            © {new Date().getFullYear()} Jahagirdar Bakery. All rights reserved.
+              © {new Date().getFullYear()} Jahagirdar Bakery.
+            <p className="text-sm">Developed by Aditya Sonar</p>
           </p>
         </div>
       </div>

@@ -1,3 +1,6 @@
+.bolt\config.json
+.bolt/
+
 # dependencies
 /node_modules
 /.pnp
