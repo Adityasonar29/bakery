@@ -73,11 +73,11 @@ const Footer = () => {
         
         <div className="mt-8 pt-8 border-t border-orange-400">
           <p className="text-center text-sm">
-<<<<<<< HEAD
+
               © {new Date().getFullYear()} Jahagirdar Bakery.
-=======
+
               © {new Date().getFullYear()} Bakery.
->>>>>>> 697756a40263bd8f0c75f86511e9415d22e1a9fc
+
             <p className="text-sm">Developed by Aditya Sonar</p>
           </p>
         </div>
